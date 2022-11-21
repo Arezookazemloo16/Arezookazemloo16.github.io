@@ -115,7 +115,7 @@ author:
   twitter: 
   linkedin: 
   google_scholar: 
-  github: Arezookazemloo16/personal_website_template
+  github: Arezookazemloo16/Arezookazemloo16.github.io 
   instagram: Arezoo_k1618
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ author:
        url: mailto:Arezookazemloo16@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://Arezookazemloo16/personal_website_template.com/"
+       url: "https://Arezookazemloo16/Arezookazemloo16.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://Arezoo_k1618.com/"
