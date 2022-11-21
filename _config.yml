@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "آرزو کاظم لو"
 title_separator          : "-"
 name                     : "آرزو کاظم لو"
-description              : "Welcome to my web site."
+description              : "WELCOM TO MY WEBSITE."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Arezoo Kazemloo"
-  avatar           : "/assets/images/3.jpg"
+  avatar           : "/assets/images/5.jpg"
   bio              : I'm a computer engineering student.
   location         : "تهران"
   email            : Arezookazemloo16@gmail.com
