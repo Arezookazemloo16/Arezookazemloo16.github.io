@@ -120,10 +120,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:Arezookazemloo16@gmail.com
+      url: mailto:Arezookazemloo16@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://Arezookazemloo16/Arezookazemloo16.github.io/"
+      url: "https://Arezookazemloo16/Arezookazemloo16.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://Arezoo_k1618.com/"
