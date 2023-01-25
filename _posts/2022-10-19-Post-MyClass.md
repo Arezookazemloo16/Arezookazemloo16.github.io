@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title:  پروژه پایانی ترم1
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- 
+-
+-
