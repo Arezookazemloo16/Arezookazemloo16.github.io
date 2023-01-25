@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: Test Post
+title: mandelbrot set پروژه
 ---
 
-## This is my team at Microsoft
+## .اولش برام خیلی سخت بود
 People in the picture are:
 - Arul
 - Fai
@@ -12,9 +12,8 @@ People in the picture are:
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
-
+خیلی استرس داشتم و اصلا نمیدونستم از کجا باید شروع کنم. تا اینکه استاد یک جلسه رفع اشکال برگزار کردند.  بعد شرکت در تون جلسه کلی از ابهاماتم برطرف شد. بعد از چند روز شروع کردم به انجام پروژه. یکی دوبار موقع تعریف توابع به مشکل خوردم ولی خوشبختانه با راهنمایی دوستان تونستم اون مشکلات رو برطرف کنم. تا اینکه بالاخره تونستم اولین عکس های سیاه و سفید رو تولید کنم. یه فیلم از عکس های تولید شده درست کردم و به     
+کردم. push عنوان مرحله اول
 
 
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
