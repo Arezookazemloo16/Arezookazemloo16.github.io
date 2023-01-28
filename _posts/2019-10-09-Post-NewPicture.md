@@ -9,7 +9,7 @@ title: mandelbrot set پروژه
 
 خیلی استرس داشتم و اصلا نمیدونستم از کجا باید شروع کنم. تا اینکه استاد یک جلسه رفع اشکال برگزار کردند.  بعد شرکت در تون جلسه کلی از ابهاماتم برطرف شد. بعد از چند روز شروع کردم به انجام پروژه.اول یکم با کد زده شده در پایتون سر و کله زدم و سعی کردم همه توابع تعریف شده رو به خوبی درک کنم.عکس زیر اولین عکس تولید شده در پایتون بود.
 
-![alt text](C:\Users\Madika\git\FC01021\mandelbrot\output_2.png)
+![alt text](C:/Users/Madika/git/FC01021/mandelbrot/output_2.png "first output in python")
 <!-- ![alt text](../assets/images/grouppic.jpg "Team Picture") -->
 
 ---
