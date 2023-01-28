@@ -4,11 +4,6 @@ title: mandelbrot set پروژه
 ---
 
 ## .اولش برام خیلی سخت بود
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
 
 [my favorite website](http://www.google.com)
 
@@ -19,4 +14,4 @@ People in the picture are:
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+<!-- **Test**: This is atest -->
